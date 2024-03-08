@@ -1,8 +1,6 @@
 # Dimensions of Adverse Childhood Experiences in the Millennium Cohort Study
 ## R script by Athena Chow, PhD student in Experimental Psychology at the University of Oxford
 
-Load the packages.
-
 ``` r
 library(foreign) # for loading data
 library(Hmisc) # for data manipulation
