@@ -1,3 +1,7 @@
+# Dimensions of Adverse Childhood Experiences in the Adolescent Brain Cognitive Development Study
+
+## R script by Athena Chow, PhD student in Experimental Psychology at the University of Oxford
+
 ``` r
 library(psych)
 library(dplyr)
